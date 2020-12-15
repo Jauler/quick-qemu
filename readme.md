@@ -35,6 +35,7 @@ Once disk image is ready, just issue:
 ```
 
 If VM is configured to use QEMU console, the output will be in terminal.
+Graphical output is disabled.
 
 #### Connect to the VM
 
